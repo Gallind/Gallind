@@ -58,7 +58,7 @@ I recently completed a Software Engineering Internship at Porsche Digital, focus
 
 * **Key Tech:** Python, FastAPI, Playwright, Google Gemini, Firebase, Google Cloud Run, LaTeX.
 * **Challenge:** Orchestrating a seamless, multi-user pipeline featuring AI-driven CV generation, asynchronous task queues, stealth browser automation, and a dual Web/Telegram approval system.
-* **Links:** [📁 Repository](#)
+* **Links:** [📁 Repository](https://github.com/Gallind/CViral)
 
 ***
 
