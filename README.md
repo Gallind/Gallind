@@ -64,5 +64,5 @@ I recently completed a Software Engineering Internship at Porsche Digital, focus
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/Gal-Lind)
 
-***
-*"First, solve the problem. Then, write the code." - John Johnson*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
