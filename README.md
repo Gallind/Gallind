@@ -66,8 +66,8 @@ I recently completed a Software Engineering Internship at Porsche Digital, focus
 
 | Project Name | Primary Tech | Description | View |
 | :--- | :--- | :--- | :--- |
-| **AI Debate** | **Python / AI** | An AI driven project exploring multi agent debate systems and LLM interactions. | https://github.com/Gallind/AI-Debate |
-| **Topics In CS Scripts** | **Python / C** | A collection of scripts and algorithmic implementations exploring various advanced topics in Computer Science. | https://github.com/Gallind/Topics-In-CS-Scripts |
+| **AI Debate** | **Python** | An AI driven project exploring multi agent debate systems and LLM interactions. | https://github.com/Gallind/AI-Debate |
+| **Topics In CS Scripts** | **Java** | A collection of scripts and algorithmic implementations exploring various advanced topics in Computer Science. | https://github.com/Gallind/Topics-In-CS-Scripts |
 | **Survive In The Skies** | **Unity / C#** | A Unity based real time strategy game focused on resource management, tactical decision making, and aerial survival mechanics. | https://github.com/Gallind/Survive-in-the-Skies |
 
 ***
